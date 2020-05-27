@@ -1,0 +1,3 @@
+[submodule "python-shutilwhich"]
+	path = python-shutilwhich
+	url = https://github.com/sailfishos-mirror/shutilwhich.git
